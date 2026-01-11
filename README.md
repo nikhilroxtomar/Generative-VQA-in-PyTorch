@@ -1,3 +1,4 @@
+![](figures/banner.png)
 # 🧠 Generative Visual Question Answering (VQA) using CLIP + GPT-2
 
 This repository contains an **end-to-end Generative Visual Question Answering (VQA) pipeline** built using **CLIP (ViT-B/32)** for image understanding and **GPT-2** for question encoding and answer generation.
